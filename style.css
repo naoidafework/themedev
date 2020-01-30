@@ -1,0 +1,57 @@
+.navbar{
+    margin:0;
+}
+.post-thumb img{
+    width:650px;
+    height:400px;
+    margin-bottom: 2px;
+}
+.menu{
+    display:flex;
+    margin-top:10px;
+
+}
+.menu li{
+    list-style: none;
+    margin-right:10px;
+    align-self: center;
+
+}
+.menu li a:hover{
+    background-color:blueviolet;
+    color:white
+}
+.menu li a {
+    color: #0000cc;
+    padding:20px 10px;
+}
+.menu {
+    margin-left:300px;
+}
+.wp-post-image{
+    width:650px;
+    height:400px;
+    margin: 20px 20px;
+}
+.content{
+    display:flex;
+    justify-content: center;
+}
+.single-thumbnail-img{
+    display:flex;
+    justify-content: center;
+}
+.blog-excerpt{
+    flex:0.5;
+    padding:0 150px;
+}
+.single-title{
+    text-align: center;
+}
+.sidebar_module{
+    padding: 10px 30px;
+    background: #fafafa;
+    margin-bottom:20px;
+    margin-top:10px;
+}
+.sidebar_module
